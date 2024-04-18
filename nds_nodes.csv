@@ -1,0 +1,41 @@
+id,name,name_real,type,sex,age_real,politics,county,spotify_listener,exit
+alva,Alva,N.A.,1,w,0,0,Sachsen,2382,0
+azat,Azatro,N.A. ,1,m,0,0,0,1618,0
+chri,Chris Ares,Christoph Aljoscha Zloch,1,m,31,Identitäre Bewegung,Bayern,0,ja
+gals,Galstarr,0,1,m,0,0,0,4756,0
+kava,Kavalier,Dominik Raupbach,1,m,0,Identitäre Bewegung,Sachsen,10309,0
+maks,Makss Damage,Julian Fritsch,1,m,36,Der III. Weg,Nordrhein-Westfalen,1651,0
+kris,Krischy_Riot,0,6,m,0,0,0,0,0
+prim,Primus,Andre Laaf,1,m,25,Identitäre Bewegung,Nordrhein-Westfalen,2860,ja
+prot,Prototyp,Kai Naggert,1,m,32,Identitäre Bewegung,Sachsen,4650,0
+skep,Skeptika,J. Paul,1,m,0,0,Nordrhein-Westfalen,8594,0
+runa,Runa,Ramona Naggert / Zeitz,1,w,30,Identitäre Bewegung ,Sachsen,5634,0
+sill,Sillo,Silas Wehren,1,m,0,0,0,0,0
+menx,Menx,Tino Datzer,1,m,0,0,0,3644,ja
+mari,0,Mario Hallecker,6,m,0,0,0,0,0
+mart,0,Martin Sellner,6,m,35,Identitäre Bewegung,Österreich,0,0
+jann,0,Jann Blumhoff,0,m,0,0,0,0,0
+brig,0,Brigitte Rath,0,w,0,0,0,0,0
+lass,0,Lasse Richei,6,m,25,NPD/Die Rechte,Niedersachsen,0,0
+stev,0,Steven Feldmann,6,m,29,Heimat Dortmund,Nordrhein-Westfalen,0,0
+bloo,Bloody 32,Maik Siewert,1,m,0,Zukunft Heimat,Brandenburg,1618,0
+juli,Julia Juls,Julia Götz,1,w,33,Frauenbündnis Kandel,,995,0
+john,Johnny Zahngold / Henry 8,Benjamin Müller,1,m,0,0,0,0,0
+nils,0,Nils Budig,6,m,0,Hammerskins,0,0,0
+patr,0,Patriot Peer,5,0,0,0,0,0,0
+subv,0,Subversion Production,4,0,0,0,0,0,0
+bala,0,Balaclava Graphics,7,0,0,0,0,0,0
+svpm,0,SVP Media UG,5,0,0,0,0,0,0
+iden,0,Identitäre Bewegung ,7,0,0,0,0,0,0
+pfor,0,Pforzheim Revolte,7,0,0,0,0,0,0
+jung,0,Junge Alternative,7,0,0,0,0,0,0
+ndsr,0,Neuer Deutscher Standard Records,4,0,0,0,0,0,0
+deut,0,Deutsches Warenhaus,5,0,0,0,0,0,0
+küst,0,Küsten Textil UG,5,0,0,0,0,0,0
+dier,0,Die Rechte,7,0,0,0,0,0,0
+frau,0,Frauenbündnis Kandel,7,0,0,0,0,0,0
+derd,0,Der 3. Weg,7,0,0,0,0,0,0
+apyl,0,Apylion Multimedia,5,0,0,0,0,0,0
+blog,0,Bloodgold Records,5,0,0,0,0,0,0
+fron,0,Front Records,5,0,0,0,0,0,0
+hamm,0,Hammerskins,7,0,0,0,0,0,0
