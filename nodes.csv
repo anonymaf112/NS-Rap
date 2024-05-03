@@ -1,11 +1,11 @@
-id,name,type,sex,age_real,politics,county,born in,spotify-listener,criminal,religion,start,exit
+id,name,type,sex,age_real,politics,county,born in,spotify_listener,criminal,religion,start,exit
 aaro,Aaron Scotch,1,m,38,NA,Sachsen,DDR,11734,nein,NA,2006,2020
 acaz,Acaz,1,m,NA,NA,Rheinland-Pfalz,NA,11369,nein,NA,2009,nein
 alva,Alva,1,w,NA,NA,NA,NA,2382,NA,NA,2022,NA
 assi,AssiH,1,m,NA,NA,NA,NA,169525,NA,NA,2021,NA
 azat,Azatro,1,m,NA,NA,NA,NA,1618,NA,NA,2011,NA
 bloo,Bloody32,1,m,NA,Zukunft Heimat,Brandenburg,NA,1618,nein,NA,2013,NA
-bzn,Bözemann,1,m,44,Kampf der Niebelungen,Baden-Württemberg,Baden-Württemberg,10622,ja,NA,2006,NA
+bzn,Bözemann,1,m,44,Kampf der Nibelungen,Baden-Württemberg,Baden-Württemberg,10622,ja,NA,2006,NA
 bus,Bustek,1,m,34,NA,Berlin,Berlin,1907,nein,NA,2019,NA
 came,Came,1,m,NA,NA,Berlin,NA,18089,ja,NA,2017,NA
 chid,Chidvillas,2,NA,NA,NA,NA,NA,470,NA,NA,2017,NA
@@ -56,7 +56,7 @@ twan,Twanie,1,m,37,Neue Weltordnung,NA,Schleswig-Holstein,1621,NA,christlich,202
 twin,Twin,1,m,40,Hooligan-Szene,Hessen,Hessen,37988,NA,NA,2013,NA
 ukv,Ukvali,1,m,34,Neue Weltordnung,Hessen,Hessen,6518,NA,NA,2016,NA
 urba,Urbanize,2,m,NA,NA,NA,Nordrhein-Westfalen,52899,NA,NA,2005,NA
-vill,Villian051,1,m,NA,Barnimer Freundschaft,Berlin,NA,0,ja,NA,2009,NA
+vill,Villian051,1,m,NA,Barnimer Freundschaft,Berlin,NA,0,ja,NA,2009,
 xavi,Xavier Naidoo,1,m,53,NA,Baden-Württemberg,Baden-Württemberg,618667,ja,christlich,2020,NA
 yann,Yannick D.,1,m,NA,Neue Weltordnung,Hamburg,Schleswig-Holstein,2578,NA,christlich,2016,NA
 nouv,NouVision Song contest,3,NA,NA,NA,NA,NA,0,NA,NA,2021,NA
