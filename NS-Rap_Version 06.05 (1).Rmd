@@ -1,0 +1,1014 @@
+---
+title: "NS-Rap Pretest"
+author: "Anni Gebhard"
+date: "2024-01-29"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+editor_options:
+  markdown:
+    wrap: 72
+---
+
+# Abstract
+
+Die NS-Rap-Szene ist ein Subgenre, das rechtsextreme Ideologien und
+Propaganda verbreitet. Sie entstand in den frühen Zweitausendern, wuchs
+aus dem Rechtsrock heraus und profitierte von der steigenden Popularität
+des Deutschraps. Einige ehemalige Nazirocker wechselten ihre
+musikalische Ausrichtung im Laufe der Nuller Jahre, nicht unbedingt aus
+Leidenschaft für Rap, sondern vielmehr aus strategischen Gründen, um ein
+breiteres Publikum zu erreichen. In unserem Forschungsbericht haben wir
+uns die Frage gestellt, wie die Verbindungen zwischen deutschsprachigen
+NS-Rappern, deren Labels und Veranstaltungen aussehen. Wir haben uns
+hierbei auf diejenigen konzentriert, die in den letzten 20 Jahren aktiv
+waren oder heute noch sind. Da bislang verstärkt der Rechtsrock
+untersucht wurde, konzentriert sich diese Forschungsarbeit auf den
+NS-Rap. Die Daten zu den Künstlern und deren Verbindungen wurden über
+Streaming-Plattformen, Bandmitgliedschaften, Labels, Veranstaltungen
+oder musikalische Features erhoben. Die Ergebnisse können vor allem
+aufzeigen, wer mit wem vernetzt ist und welche größeren Labels für diese
+Verbindungen verantwortlich sind.
+
+# Keywords
+
+NS-Rap, NS-Hip-Hop, Nationalsozialistischer Rap, Rechtsextremismus,
+Rassismus, Radikalisierung, Hasspropaganda, Multikulturalismus,
+Nationalismus, Rechtsrock, Neonazi-Szene
+
+# 1. Einleitung und Problemstellung
+
+Der Mainstream-Rap in Deutschland gilt meist als unpolitisch, während es
+abseits davon politischen Rap gibt, welcher in rechten Kreisen populär
+ist (Baack, 2021). NS-Rap, auch bekannt als NS-Hip-Hop, Rechtsrap oder
+Nazi-Rap, ist eine rechtsextreme Variante deutschsprachiger
+Hip-Hop-Musik. Obwohl das Genre weniger eine Selbstbezeichnung als
+vielmehr eine von Antifaschisten genutzte Sammelbezeichnung für
+rechtsextreme Musik aus der Hip-Hop-Szene ist, hat es in den letzten
+Jahren verstärkt an Aufmerksamkeit gewonnen. NS-Rap bedient sich oft
+aggressiver Rhythmen und Texte, die rassistische, antisemitische und
+nationalistische Botschaften propagieren. Zu den zentralen Themen
+gehören die Verherrlichung des Nationalsozialismus, die Ablehnung von
+Multikulturalismus und die Verunglimpfung von Minderheiten. Der Ursprung
+dieser Entwicklung liegt in der Rechtsrock-Szene, die sich ab dem Jahr
+2003 zunehmend mit der Hip-Hop-Kultur auseinandersetzte (Schieferdecker,
+2020). Der Einfluss von Deutschrap nahm mit den Jahren stetig zu -- eine
+Tatsache die auch von den Nazis bemerkt wurde. 2013 beispielsweise
+verteilte die NPD Musik-CDs an Schulen, auf denen auch Rechtsrap zu
+hören war, um junge Anhänger zu rekrutieren (rap.de, 2018). Immer wieder
+gibt es Schlagzeilen um NS-Rapper mit antisemitischen Texten, Angriffen
+auf Journalisten und Verbreitung von Verschwörungsmythen. Einige dieser
+Künstler haben enge Verbindungen zu rechten Verlagen, Hooligans und der
+organisierten Kriminalität (Baack, 2021). „Neun Jahre Haft:
+Österreichischer Rechtsextremist wegen NS-Wiederbetätigung verurteilt":
+So lautete eine Schlagzeile von „Endstation Rechts" Anfang März über den
+bekannten NS-Rapper Manuel E., auch „Kombaat" genannt. Die
+Staatsanwaltschaft Innsbruck warf ihm vor, rechtsextremes
+Propagandamaterial in Form von Büchern und Bekleidung zur Schau gestellt
+zu haben sowie NS-Gedankengut über seine Musikprojekte gefördert zu
+haben (Endstation Rechts., 2024). Außerdem pflege er Kontakte zu
+zentralen Figuren aus der Neonazi-Szene wie zu Gottfried Küssel, André
+Eminger und Hendrik Möbus. Manuel E. wurde in einem Großteil der
+Anklagepunkte für schuldig befunden und muss für neun Jahre in Haft. Die
+NS-Rap-Szene hält einige Grenzfälle bereit. Die davon ausgehende Gefahr
+sollte daher nicht unterschätzt werden. Auch da einige bekannte
+Protagonist der NS-Rap-Szene, wie beispielsweise Chris Ares, hohe
+Zugriffszahlen auf Social Media haben (Schieferdecker, 2020). Uns hat
+vor allem interessiert, wie die verschiedenen Rapper und Akteure
+untereinander verbunden sind, um anschließend Rückschlüsse auf
+Gesinnungen und Ähnliches ziehen zu können, zumal „Rap als rechtes
+Propagandainstrument Stück für Stück zu einer Modernisierung und
+Verjüngung der Neonaziszene beiträgt" (Schieferdecker, 2020). Es ist
+wichtig, solche Verbindungen zu untersuchen, um eventuell rechtsextreme
+Subkulturen oder Netzwerke erkennen zu können. Wir sind davon
+ausgegangen, dass Bands, Labels oder Veranstaltungen diese Verbindungen
+fördern und haben uns daher auf diese Bereiche bei der Datenerhebung
+spezialisiert. Zudem wurden verschiedene Features untersucht, um
+Verbindungen unter den Künstlern herzustellen. Wichtig ist hierbei zu
+betonen, dass nicht jeder Künstler, welcher Verbindungen durch Songs
+oder Kooperationen zur NS-Rap-Szene hat oder hatte, auch dieser Szene
+eindeutig zugeordnet werden kann. Auch aufgrund des aktuell aufkommenden
+rechtspolitischen Rucks lohnt es sich, das Netzwerk zu erheben. Im
+Folgenden werden wir neben der Frage nach den Verbindungen unter anderem
+eines der bekanntesten Labels, den „NDS -- Neuer Deutscher Standard",
+genauer betrachten.
+
+# 2. Stand der Forschung
+
+Seit Anfang der 1980er Jahre begann sich die aus der britischen
+Neonazi-Skinhead-Szene stammende Rechtsrock-Bewegung in Deutschland zu
+etablieren. Als Sammelbegriff umfasst Rechtsrock verschiedene Genres,
+die sich in ihren Texten offen mit nationalsozialistischen,
+rassistischen und antisemitischen Argumentationsmustern
+auseinandersetzen. Spätestens nach den fremdenfeindlichen Anschlägen von
+Hoyerswerda und Solingen wurde auch in der breiteren Öffentlichkeit über
+den Einfluss von Rechtsrockgruppen auf rechtsextremistische Gewalttaten
+in Deutschland diskutiert. „Neben dem Einfluss von Parteien wurde
+Rechtsrock zum Ausgangspunkt einer Modernisierung des neonazistischen
+Spektrums und zum Begleitphänomen einer sich in den 1990er Jahren
+konstituierenden Bewegung von rechts" (Dornbusch & Raabe, 2002: 52). Mit
+dem Sammelband „Rechtsrock - Bestandsaufnahme und Gegenstrategien"
+erschien eine erste wissenschaftliche Einordnung des Phänomens
+Rechtsrock. Die Herausgeber gehen auf die Entstehungsgeschichte des
+Rechtsrock ein und bieten mit umfangreichen Verzeichnissen zu rechter
+Symbolik, einschlägigen Bands, Publikationen und Labels eine präzise
+Orientierung.
+
+Rechtsrock dient als Werbeträger, um vor allem ein junges Publikum von
+nationalsozialistischem Gedankengut zu überzeugen. Parteien nutzen
+dieses moderne Instrument, um ihre politischen Absichten mit der
+Freizeitgestaltung Jugendlicher zu verbinden: So konnte die NPD in
+Sachsen-Anhalt neben eigenen CD-Produktionen durch regelmäßige
+Musikveranstaltungen junge Wähler für sich gewinnen (Langebach & Raabe,
+2009: 377). In der Bundesrepublik wurde die erste Band „Ragnaröck", die
+rechtsextreme Inhalte mit moderner Rockmusik verband, in
+Baden-Württemberg gegründet. Die Bandmitglieder kamen aus dem Umfeld der
+NPD. Die Gefahr der engen Vernetzung zwischen rechten Parteien und
+Rechtsrockgruppen wird immer deutlicher und von vielen Bundesländern
+dokumentiert. Publikationen wie „Rechtsrock in Baden-Württemberg" der
+Landeszentrale für politische Bildung Baden-Württemberg (Bücher, 2022)
+oder „Hass und Kommerz: die neonazistische Musikszene in Thüringen"
+(MOBIT e.V., 2022) sammeln Informationen über rechtsextreme
+Musikveranstaltungen in ihrem Bundesland.
+
+Neuere Phänomene konzentrieren sich vor allem auf Musikgruppen der
+deutschen Rap- und Popmusik: „Die rechtsextreme Jugendkultur ist zu
+Beginn des 21. Jahrhunderts zunehmend bunt statt braun" (Braun, 2004:
+123). Denn parallel zu den gesellschaftspolitischen Verschiebungen durch
+den Rechtsruck ist auch eine Nationalisierung der deutschsprachigen
+Popmusik zu beobachten (Alt, 2020). So hat sich das musikalische
+Spektrum des Rechtsrock um eine spezifische Form erweitert: den
+sogenannten „NS-Rap". In diesem Genre bedienen sich Künstler der
+Stilmittel des Hip-Hop, um rechtsextreme Ideologien zu verbreiten. Die
+TAZ schreibt dazu: „Immer häufiger treten Nazis und selbsternannte
+Patrioten im Gewand von Rappern auf, um ihre volksverhetzende Rhetorik
+und Ideologie unters Volk zu bringen" (Fleischmann, 2019). Auch in
+diesen Musikrichtungen haben sich in den letzten zehn Jahren
+rechtsextreme Interpreten etabliert, wie Max Alt in dem Kapitel „Die
+Nationalisierung der deutschsprachigen Popmusik" betont. Er verweist
+dabei auf Künstler wie den Soulsänger Xavier Naidoo und den Rapper Chris
+Ares, die durch ihr bürgerliches Auftreten ein junges Publikum sehr
+subtil politisieren (Alt, 2020). Vergleicht man die bestehende
+Forschungsliteratur zu Rechtsrock, so bestehen noch erhebliche Lücken im
+Verständnis der NS-Rap-Szene und ihrer Netzwerke. Dies liegt auch daran,
+dass die Netzwerke der sogenannten „Neuen Rechten" im deutschsprachigen
+Popdiskurs deutlich kleiner sind und weniger bedrohlich erscheinen. Die
+Komplexität der Szene und die häufige Verwendung von Pseudonymen
+erschweren die Identifizierung und Analyse von Netzwerkstrukturen
+zusätzlich. „Die hohen Zugriffszahlen auf die Social-Media-Kanäle von
+Protagonisten wie Chris Ares zeigen jedoch das große
+Gefährdungspotenzial. Zumal die Nutzung von Rap als rechtes
+Propagandainstrument Schritt für Schritt zu einer Modernisierung und
+Verjüngung der Neonaziszene beiträgt" (Schieferdecker, 2020).
+
+Spätestens seit dem Durchbruch von Chris Ares in die deutschen iTunes-
+und Amazon-Charts im Jahr 2020 wird die Gefahr von NS-Rap auf
+Online-Plattformen wie Youtube oder Spotify und die Verantwortung dieser
+Plattformen breit diskutiert. „Das Internet entwickelt sich zu einer
+Kommunikationsplattform, auf der Rassismus, Antisemitismus,
+antimuslimischer Rassismus und allgemein diskriminierende Äußerungen
+auch in Form von Hate Speech in erschreckendem Ausmaß zunehmen" (Hassan,
+2017: 673). Musik wird dabei zunehmend als subtiles Verbreitungsmedium
+genutzt. Der Autor beschäftigt sich in dem Buchkapitel „Hate Speech im
+Rechts-Rap. Analyse eines rassistischen Phänomens" mit der Verwendung
+von Hate Speech in NS-Rap-Texten und analysiert deren Bedeutung und
+Wirkung. Auch die Verbindungen zu politischen Institutionen und Parteien
+werden in der Öffentlichkeit immer wieder thematisiert. So berichtet Jan
+Petter im SPIEGEL in „Wie ein rechtsextremer Rapper, AfD-Politiker und
+Neonazis in Ostsachsen zusammenfinden" über rechtsextreme Entwicklungen
+im Deutschrap und deren enge Vernetzung mit AfD-Politikern (Petter,
+2020). Angesichts der anhaltenden Zunahme rechtsextremer Aktivitäten und
+der Verbreitung von Hate Speech im digitalen Raum ist es entscheidend,
+die Entwicklung der NS-Rap-Szene im Kontext aktueller gesellschaftlicher
+und politischer Entwicklungen zu betrachten. Unsere Netzwerkanalyse
+trägt dazu bei, diese Lücke zu schließen, indem sie einen Einblick in
+die Vernetzung von NS-Rappern gibt und die damit verbundenen Risiken für
+die Gesellschaft aufzeigt.
+
+# 3. Datenerhebung: Zugang, Bereinigung und Codebuch
+
+## 3.1 Ausgangslage: Datenzugang und Sampling
+
+Samplings beziehen sich auf den Prozess der Auswahl einer Teilmenge aus
+einer größeren Gesamtheit oder Population, um statistische
+Schlussfolgerungen über diese Gesamtheit zu ziehen. Bei einem
+Datenzugang wird also nicht die gesamte verfügbare Datenmenge verwendet,
+sondern nur eine repräsentative Stichprobe daraus. In unserem
+Forschungsprojekt hatten wir aufgrund des sensiblen Themas mit einem
+erschwerten Datenzugang zu kämpfen. Aus diesem Grund wurde nicht mit
+einer Stichprobenmethode gearbeitet, sondern es wurden alle Daten
+ausgewertet, die erhoben werden konnten. Alle bei der Datenerhebung
+identifizierten NS-Rap-Künstler wurden in die Nodelist aufgenommen. Es
+wurde lediglich darauf geachtet, nur Künstler zu erfassen, die in den
+letzten 20 Jahren aktiv waren.
+
+## 3.2 Codebuch und Operationalisierung
+
+Unser Codebuch zur Übersicht der Codierung liegt in unserem
+[GitHub-Verzeichnis](https://github.com/anonymaf112/NS-Rap).
+
+Wir haben für das Netzwerk folgende Attribute erhoben:
+
+**Node-Attribute:**
+
+-   id: Kürzel zur Identifikation der Knoten
+
+-   name: Klarname des Künstlers oder des Labels
+
+-   type: Art des Knotens: 1 = Solokünstler, 2 = Band/Zusammenschluss, 3
+    = Veranstaltung, 4 = Label
+
+-   sex: Geschlecht bei Solokünstler: 1 = männlich, 2 = weiblich, 3 =
+    divers
+
+-   age_real: Alter des Solokünstlers in natürlichen Zahlen
+
+-   politics: Parteimitgliedschaft, Mitglied einer politischen
+    Organisation werden als string/characters codiert
+
+-   spotivy_listener: Monatliche Hörer des Spotify-Kanals eines
+    Solokünstlers in natürlichen Zahlen
+
+-   religion: Glaubensrichtung des Solokünstlers (christlich,
+    bhuddistisch, islamisch)
+
+-   criminal: Eingetragene oder fallengelassene Straftaten des
+    Solokünstlers, Band oder Labels
+
+-   county: Wohnort des Solokünstlers oder Sitz des Labels/Veranstaltung
+    (Bundesland)
+
+-   born_in: Geburtsort des Solokünstlers
+
+-   start: Gründungsjahr der Karriere des Solokünstlers/Band
+
+-   exit: Ausstieg des Solokünstlers/Band
+
+**Edge-Attribute:**
+
+-   id: Eindeutige Codierung des Knoten bei der jede ID einem
+    Solokünstler, Veranstaltung oder Band entspricht
+
+-   relation: Art der Interaktion zwischen den einzelnen Knoten: 1 =
+    familiar (Interaktion auf Social Media), 2 = Kooperation
+    (Zusammenarbeit mit Label, Veranstalter oder gemeinsames Feature), 3
+    = close relationship (Bandmitglied, sympathisieren)
+
+-   weight: Art der Beziehung zwischen den einzelnen Knoten: 1 =
+    schwache Beziehung (kennen sich), 2 = starke Beziehung (arbeiten
+    zusammen, häufige Treffen)
+
+## 3.3.Datenerhebung
+
+Die Erhebung der netzwerkrelevanten Daten erfolgte manuell. Die Daten
+wurden ausschließlich aus öffentlich zugänglichen Quellen erhoben. Die
+Erhebung konzentrierte sich auf die politischen und sozialen Netzwerke
+der Rapper. Genauere Parameter werden im Abschnitt zur Edge- und
+Nodelist beschrieben. Die Erhebung der netzwerkrelevanten Daten erfolgte
+manuell. Die Daten wurden ausschließlich aus öffentlich zugänglichen
+Quellen erhoben. Insbesondere wurde auf Internetquellen, Presseberichte
+und soziale Medien zurückgegriffen. Damit wurde eine reichhaltige
+Grundlage geschaffen, um in weiteren Schritten eine detailliertere
+Analyse der Netzwerke durchzuführen.
+
+**Sammlung von Daten aus dem Internet:**
+
+In einem ersten Schritt wurde das Internet mit den gängigen
+Suchmaschinen nach ersten Anhaltspunkten durchsucht. Von Interesse waren
+dabei Archive, Artikel und Berichte. Ein sehr umfangreiches Archiv bot
+die Website Belltower News (Rechtsrock, 2021), die von der Amadeu
+Antonio Stiftung betrieben wird. Dort sind viele Künstler und Bands mit
+Informationen hinterlegt. Listen wie diese lieferten uns erste Namen und
+Anhaltspunkte für eine tiefergehende Recherche und Validierung der
+Informationen. Die Suchmaschinen gaben uns auch einen Einblick in
+kriminelle Aktivitäten, z.B. durch Polizeiberichte. Ein weiterer
+wichtiger Baustein war die Musik-Streaming-Plattform Spotify. Durch die
+dort angegebenen Zugriffszahlen konnten Rückschlüsse auf die Reichweite
+der Rapper gezogen werden.
+
+**Datensammlung aus der Presse:**
+
+Presseberichte lieferten zum Teil sehr detaillierte Informationen über
+den Hintergrund, die Demographie und weitere potentielle Mitglieder für
+das Netzwerk. Auch die genauen politischen Ansichten und Aktivitäten,
+wie z.B. die Teilnahme an rechten Demonstrationen, konnten aus den
+Berichten entnommen werden. Informationen aus der Presse erwiesen sich
+als sehr wertvolle Quelle. Durch Interviews und eingehende Recherchen zu
+Einzelpersonen konnten wir Informationen erhalten, die aus anderen
+Quellen nicht zu entnehmen waren.
+
+**Datenerhebung aus sozialen Medien:**
+
+Soziale Medien spielten bei der Datenerhebung eine zentrale Rolle. So
+konnten Einblicke in die persönlichen und öffentlichen Profile der
+Rapper in den sozialen Medien gewonnen werden. Untersucht wurden Posts,
+Kommentare und geteilte Inhalte. Dies ermöglichte uns einen Überblick
+über das politische Engagement der Rapper im Allgemeinen und in sozialen
+Diskussionen. Darüber hinaus konnten wir Rückschlüsse auf die
+Verbindungen der Rapper untereinander ziehen. Dazu wurden die
+Beziehungen und Interaktionen der Künstler untereinander und zwischen
+ihren Followern analysiert. Rechtsrock: Liste rechtsextremer Bands aus
+Deutschland. (2021, Oktober 11).
+Belltower.News.https://www.belltower.news/liste-rechtsextremer-bands-und-liedermacher-50842/
+
+## 3.4 Datenbereinigung
+
+Die Datenbereinigung für unser gesamtes NS-Rap-Netzwerk wurde sorgfältig
+durchgeführt, um eine hohe Datenqualität und genaue Analysen zu
+gewährleisten. Dieser Prozess fand direkt in Google Tables statt, einer
+Plattform, die die kollaborative Bearbeitung von Tabellendaten
+ermöglicht. Um sicherzustellen, dass alle Edge- und Node-Attribute
+korrekt sind, wurde das Vier-Augen-Prinzip angewendet. Das bedeutet,
+dass jede Änderung oder Überprüfung von mindestens zwei Personen
+durchgeführt wurde, um Fehler zu minimieren und die Genauigkeit zu
+gewährleisten.
+
+Während der Überprüfung stellten wir fest, dass eine häufige
+Fehlerquelle Leerzeichen vor oder nach Attributen oder falsch benannten
+IDs waren. Diese scheinbar kleinen Inkonsistenzen hatten erhebliche
+Auswirkungen auf die Erstellung eines funktionierenden Codes. Um diese
+Fehler zu beheben, haben wir beschlossen, eine neue Edgelist zu
+erstellen. Durch die Erstellung einer neuen Edgelist konnten wir
+sicherstellen, dass alle Attribute korrekt formatiert und benannt sind
+und dass potenzielle Fehler behoben wurden, bevor wir mit der
+eigentlichen Analyse des Netzwerks begannen.
+
+## 3.5 Arbeitshypothesen
+
+Für die vorliegende Forschungsarbeit wurden basierend auf einer
+anfänglichen Literaturrecherche folgende Arbeitshypothesen formuliert,
+die als Leitfaden für die Untersuchung dienten: Wir nehmen an, dass der
+männliche Anteil in der NS-Rap Szene stark überwiegt. Diese
+Schlussfolgerung ziehen wir aus der Wahrnehmung, dass es in der
+deutschen Rap-Szene insgesamt mehr Männer gibt. Zudem stützt sich unsere
+Annahme auf die Vermutung, dass im rechten politischen Spektrum die
+Anzahl der Männer überwiegt. Ein komplexes Beziehungsgeflecht zwischen
+NS-Rappern entsteht möglicherweise durch Kollaborationen, gemeinsame
+Auftritte und soziale Interaktionen. Diese soziale Interdependenz könnte
+Einfluss auf die erfolgreiche Verbreitung von Ideologien und die
+Entstehung von Subkulturen innerhalb der Szene haben. Organisationen wie
+Parteien oder Vereine, die politisch rechts ausgerichtet sind, könnten
+im engen Kontakt mit den Rappern stehen, etwa durch eine Mitgliedschaft.
+Eine große Rolle in dieser Szene spielen wahrscheinlich Soziale Medien.
+Die Akteure unterstützen sich möglicherweise gegenseitig auf diesen
+Plattformen, um mehr Reichweite zu gewinnen. Schlussendlich stellen wir
+die Arbeitsthese auf, dass der NS-Rap bereits teilweise im deutschen
+Mainstream angekommen sein könnte."
+
+**Arbeitshypothese 1:** „Frauen sind seltener in der rechtsextremen
+NS-Rapszene vertreten als Männer."
+
+**Arbeitshypothese 2:** „Durch Kooperationen wie Features oder der
+Zusammenarbeit innerhalb eines Labels besteht ein komplexes
+Beziehungsgeflecht zwischen den NS-Rappern."
+
+**Arbeitshypothese 3:** „NS-Rapper sind auch außerhalb der Musikszene im
+rechten politisch Spektrum involviert."
+
+**Arbeitshypothese 4:** „NS-Rapper sind in den sozialen Medien aktiv und
+haben dort über weak ties breitgefächerte Verbindungen" Arbeitshypothese
+5: „NS-Rap ist bereits zumindest teilweise im deutschen Mainstream
+angekommen."
+
+# 4.Deskriptive Netzwerkanalyse
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+
+# lädt die Programmbibliotheken
+
+library(tidyverse)
+library(igraph)
+library(ggraph)
+
+
+set_graph_style() 
+set.seed=123
+```
+
+## 4.1 Visualisierung Gesamtnetzwerk
+
+```{r Gesamtnetzwerk erstellen, fig.height=10, fig.width=20}
+
+# Einlesen der Edge- und Nodelist
+edges <- read.csv("https://raw.githubusercontent.com/anonymaf112/NS-Rap/main/edges.csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/anonymaf112/NS-Rap/main/nodes.csv", header=T, as.is=T, sep = ",")
+
+#Aufrufen von Node- und Edgelist
+nodes
+edges
+
+# Matrix erstellen
+edgematrix <-as.matrix(edges)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt rb
+nsr <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+
+# Aufrufen der Netzwerks nsr 
+nsr
+
+# erste Visualisierung
+plot(nsr)
+
+```
+
+```{r Visualisierung Gesamtnetzwerk, fig.height=12, fig.width=20}
+
+# Definieren Sie die Formen für die Knoten basierend auf dem Typ
+node_shapes <- ifelse(V(nsr)$type == 1, "circle", ifelse(V(nsr)$type == 4, "square", "circle"))
+
+# Definieren Sie die Farben für die Knoten basierend auf dem Geschlecht und Typ
+node_colors <- ifelse(V(nsr)$type %in% c(2, 3), "white", ifelse(V(nsr)$sex == "m", "lightblue", "pink"))
+
+# Plotten Sie das Netzwerk mit den definierten Formen und Farben
+plot(nsr, 
+     vertex.color = node_colors,
+     vertex.shape = node_shapes,
+     layout = layout_with_kk(nsr), 
+     vertex.size = degree(nsr,mode = "all")/3.5,
+     vertex.label.cex = 0.9,         
+     vertex.label.color = "black",  
+     edge.width = 1,
+     edge.color = "black",
+     main = "NS-Rapszene")
+
+#Legende erstellen 
+
+legend("left", legend = c("Solokünstler, Band", "Label", "weiblich", "männlich", "Knotengröße = Degrees"), 
+       fill = c("white", "white", "pink", "lightblue"), title = "Legende", 
+       pch = c(19, 15, 19, 19, NA))
+
+
+```
+
+## 4.2 Art des Netzwerks
+
+```{r Art des Netzwerks}
+
+# Ist das Netzwerk gerichtet?
+is_directed(nsr)
+
+# Handelt es sich um ein gewichtetes Netzwerk?
+is_weighted(nsr)
+
+```
+
+Es handelt sich um ein ungerichtetes und gewichtetes Two-Mode-Netzwerk.
+Bei einem ungerichteten Graphen haben die Kanten keine Angabe darüber,
+in welcher Richtung sie zwischen zwei Knoten verlaufen.
+
+## 4.3 Anzahl Knoten, Kanten und Komponenten
+
+```{r Netzwerkmaße}
+
+# Wie viele Knoten?
+knoten <- vcount(nsr)
+knoten
+
+# Wie viele Kanten?
+kanten <- ecount(nsr) 
+kanten
+
+# Wie viele Komponenten?
+komponenten <- count_components(nsr)
+komponenten
+
+```
+
+Das Gesamtnetzwerk umfasst `r knoten` Knoten und `r kanten` Kanten. Die Knoten bilden die Akteure des Netzwerkes ab. Im abgebildeten Netzwerk werden die Knoten unterteilt in Solokünstler, Bands und Labels. Außerdem ist farblich das jeweilige Geschlecht hinteregt, welches den Knoten zugewiesen wird. Die Kanten geben die Beziehung von Knoten an, die miteinander in einer Verbindung stehen. Das Hauptnetzwerk besteht aus `r komponenten` Komponenten. Das heißt, dass nicht alle Knoten im Netzwerk miteinander verbunden sind. Zu beobachten ist, dass die NS-Rap Szene folglich aus einem großen Beziehungsnetzwerk und kleineren Paaren oder Gruppierungen besteht.
+
+## 4.4 Dyaden (insbesondere Reziprozität)
+
+Die Reziprozität berechnet die Anzahl der beidseitigen Beziehungen aus
+den insgesamt bestehenden Beziehungen. Dies ist daher nur bei
+gerichteten Netzwerken möglich. Somit liegen in diesem Netzwerk keine
+reziproken Dyaden vor.
+
+## 4.5 Dichte und Durchschnittsdistanz 
+
+```{r}
+
+# Wie hoch ist die Dichte in unserem Netzwerk? 
+dichte <- edge_density(nsr)
+dichte
+
+# Dichte in Prozent
+nsr_dichte <- nsr %>% 
+  edge_density()*100
+nsr_dichte
+
+
+#Pfaddistanz im Durchschnitt
+durchschnittsdistanz <- mean_distance(nsr)
+durchschnittsdistanz
+
+
+```
+
+Die Dichte in unserem Netzwerk beträgt `r dichte`. Das bedeutet, dass
+von allen möglichen Beziehungen `r nsr_dichte` Prozent realisiert sind. Der
+Wert ist normalisiert von 0 bis 1, wobei 1 ein Netzwerk zeigen würde, in
+denen alle Knoten miteinander verbunden wären. Die durchschnittliche
+Pfaddistanz beträgt `r durchschnittsdistanz` Schritte. Die Pfaddistanz gibt an, "wie viele Schritte man mindestens benötigt, um auf einem durchgehenden Pfad von einem Akteur A zu einem anderen
+Akteur B im Netzwerk zu gelangen"(Fuhse, 2018, S.61). Im Falle des NS-Rap-Netzwerkes braucht es also durchschnittlich `r durchschnittsdistanz` Schritte, um von einem Akteur zu einem anderen zu gelangen.
+
+# 5. Detailanalyse und Hypothesen
+
+## 5.1 Zentralitätsmaße
+
+Netzwerkanalyse verwendet das Konzept der Zentralität, um die Bedeutung von Knoten in einem Netzwerk zu verstehen. Zentralitätsmaße ermöglichen es, zu untersuchen, wie wichtig bestimmte Knoten sind, entweder im Kontext des gesamten Netzwerks oder im Hinblick auf ihre individuelle Position.
+
+Im Hinblick auf das gesamte Netzwerk betrachtet die Zentralität, wie stark alle Knoten von einigen wenigen zentralen Knoten abhängen.
+Außerdem können Zentralitätsmaße auch auf einzelne Knoten angewendet werden, um herauszufinden, welche Knoten Schlüsselpositionen im Netzwerk einnehmen. Diese Analyse ermöglicht es, die Bedeutung von Akteuren oder Konzepten innerhalb der Netzwerkstruktur zu erkennen und zu verstehen (Vgl. Jünger & Gärtner, 2023, S.395).
+
+```{r Centralities}
+
+# Degree (Welcher Knoten hat die meisten Kanten?
+nsr_deg <- degree(nsr, mode="all")
+nsr_deg
+
+which.max(nsr_deg)
+
+# Betweenness (Wie gut verbindet der Knoten andere?)
+nsr_betw <- betweenness(nsr, normalized=TRUE)
+nsr_betw
+
+which.max(nsr_betw)
+
+```
+
+## Tabellarische Übersicht
+
+Weil die einzelnen Netzwerkmaße nicht übersichtlich sind, wird im Folgenden eine Tabelle mit den Netzwerkmaßen erstellt.
+
+```{r Overview Centralities as Table}
+
+# Erstellt ein neues Tibble für die Übersicht
+
+nsr_comparison <- tibble(
+  id = V(nsr)$id, # nimmt die Werte aus der Spalte id der nodelist
+  name = V(nsr)$name, # nimmt die Werte aus der Spalte name der Nodelist
+  degree = nsr_deg,
+  betweenness = nsr_betw)
+
+nsr_comparison
+```
+Um die Zentralitätsmaße besser für die Analyse des Netzwerkes zu nutzen, werden sie anchließend nach verschiedenen Vergleichswerten sortiert. 
+
+```{r Sortierung der Vergleichswerte}
+
+# Gesamttabelle
+nsr_comparison
+
+# Sortierung nach Degree (Beispiel)
+
+# Sortiert den Datensatz absteigend nach degree
+nsr_comparison_deg <- nsr_comparison %>% 
+  select(name, degree) %>% 
+  arrange(desc(degree))
+
+# Zeigt die ersten paar Zeilen an
+nsr_comparison_deg
+
+# Degree vs. Betweeness
+
+nsr_comparison_deg_bet <- nsr_comparison %>% 
+  select(name, betweenness, degree) %>% 
+  arrange(desc(betweenness))
+
+# Zeigt die ersten paar Zeilen an
+nsr_comparison_deg_bet
+
+```
+
+Der Knoten mit der größten Broker-Position ist `r maxbetweenness`.
+
+Der Knoten mit dem höchsten Degree-Wert ist ebenfalls `r maxdegree`.Das weist darauf hin, dass `r maxdegree` eine zentrale Rolle im Netzwerk spielt. Er hat nicht nur die meisten Kanten, sondern verbindet auch die meisten Knoten miteinander. `r maxdegree` kann also als ein sehr populärer Akteur in der NS-Rap-Szene interpretiert werden (Vgl. Jünger & Gärtner, 2023, S.396).
+
+```{r Pfaddistanz}
+
+#Pfaddistanz im Durchschnitt
+durchschnittsdistanz <- mean_distance(nsr)
+durchschnittsdistanz
+
+```
+
+## 5.2 Theoretische Erklärungen
+
+## 5.3 Cliquen/Clusteranalyse
+
+```{r}
+# Anzahl der Cluster
+components(nsr)
+
+#Sind die Cluster miteinander verbunden?
+is_connected(nsr)
+```
+Die größte Komponente des Netzwerks besteht aus 60 Knoten. Fünf Komponenten bestehen lediglich aus zwei Akteuren. Schließlich wird eine Komponente aus vier Knoten gebildet. 
+
+## 5.4 Visualisierung Gesamtnetzwerk
+
+```{r Visualisierung Gesamtnetzwerk_2, fig.height=20, fig.width=22}
+
+# Definieren Sie die Formen für die Knoten basierend auf dem Typ
+node_shapes <- ifelse(V(nsr)$type == 1, "circle", ifelse(V(nsr)$type == 4, "square", "circle"))
+
+# Definieren Sie die Farben für die Knoten basierend auf dem Geschlecht und Typ
+node_colors <- ifelse(V(nsr)$type %in% c(2, 3), "white", ifelse(V(nsr)$sex == "m", "lightblue", "pink"))
+
+# Plotten Sie das Netzwerk mit den definierten Formen und Farben
+plot(nsr, 
+     vertex.color = node_colors,
+     vertex.shape = node_shapes,
+     layout = layout_with_kk(nsr), 
+     vertex.size = degree(nsr,mode = "all")/3.5,
+     vertex.label.cex = 0.9,         
+     vertex.label.color = "black",  
+     edge.width = 1,
+     edge.color = "black",
+     main = "NS-Rapszene")
+
+#Legende erstellen 
+
+legend("left", legend = c("Solokünstler", "Label", "weiblich", "männlich", "Knotengröße = Degrees"), 
+       fill = c("lightgray", "gray", "pink", "lightblue", "transparent"), title = "Legende", border = NA)
+
+```
+
+# 6. Teilnetzwerk: Ego-Netzwerk NDS
+
+```{r Ego-Netzwerk NDS erstellen}
+
+# Einlesen der Edge- und Nodelist
+edges <- read.csv("https://raw.githubusercontent.com/IsabelleVees/SNA-NDS/main/nds_edges.csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/IsabelleVees/SNA-NDS/main/nds_nodes.csv", header=T, as.is=T, sep = ",")
+
+# Matrix erstellen
+edgematrix <-as.matrix(edges)
+
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt rb
+nds <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+
+# Aufrufen der Netzwerks
+nds
+
+```
+
+### 6.1 Netzwerkmaße
+
+```{r Netzwerkmaße NDS}
+
+#ist unser Netzwerk ungerichtet? 
+is_directed(nds)
+
+# Wie viele Komponenten?
+komponenten_nds <- count_components(nds)
+komponenten_nds
+
+# Netzwerk "nsr" hat eine Komponente
+
+# Wie dicht ist unser Netzwerk? 
+dichte_nds <- edge_density(nds)
+dichte_nds
+
+# Dichte in Prozent
+nds_dichte <- nds %>% 
+  edge_density()*100
+nds_dichte
+
+#Pfaddistanz im Durchschnitt
+durchschnittsdistanz_nds <- mean_distance(nds)
+durchschnittsdistanz_nds
+
+```
+
+Das Teilnetzwerk besteht aus `r koponenten_nds`Komponente.Jeder Knoten ist also von jedem Akteur im Ego-Netzwerk NDS zu erreichen. Die Dichte des Ego-Netzwerks liegt bei `r dichte_nds` oder auch `r nds_dichte` Prozent. Somit ist die Dichte im NDS-Ego-Netzwerk um rund das Doppelte höher im Vergleich zu dem Gesamtnetzwerk.Die Knoten sind hier also enger miteinander verbunden. Die durchschnittliche Pfaddistanz beträgt `r durchschnittsdistanz_nds`.Im Ego-Netzwerk NDS benötigen die Knoten also im Durchschnitt weniger Schritte, um zu einem anderen Knoten zu gelangen, verglichen mit dem Gesamtnetzwerk.
+
+### 6.2 Zentralitätsmaße
+
+```{r Degrees NDS}
+# Degree-Werte zuweisen und auflisten
+degree_nds <- degree(nds, mode = "all")
+degree_nds
+
+# Knoten mit dem höchsten Degree-Wert
+maxdegree_nds <- which.max(degree_nds)
+maxdegree_nds
+
+```
+
+Der Knoten mit dem höchsten Degree-Wert ist `r maxdegree`. Er gilt als zentraler Akteur in dem Ego-Netzwerk NDS.
+
+```{r Betweenness NDS}
+# betweenness-Werte zuweisen und anzeigen lassen
+betweenness_nds <- betweenness(nds, normalized = TRUE)
+betweenness_nds
+
+# Knoten mit größter Broker-Position
+maxbetweenness_nds <- which.max(betweenness_nds)
+maxbetweenness_nds
+
+
+```
+
+Der Knoten mit der größten Broker-Position ist ebenfalls `r maxbetweenness`. Er verbindet somit auch die meisten Knoten miteinander und kann als ein sogenannter "Strippenzieher" im Ego-Netzwerk NDS interpretiert werden.
+
+### 6.3 Visualisierung Ego-Netzwerk NDS
+
+```{r Visualisierung Ego-Netzwerk, fig.height=22, fig.width=20}
+
+# Definieren Sie die Formen für die Knoten basierend auf dem Typ
+node_shapes <- ifelse(V(nds)$type == 1, "circle", ifelse(V(nds)$type == 4, "square", ifelse(V(nds)$type == 7, "square", "circle")))
+
+# Definieren Sie die Farben für die Knoten basierend auf dem Geschlecht und Typ
+node_colors <- node_colors <- ifelse(nodes$exit == "ja", "grey", 
+                      ifelse(V(nds)$type %in% c(1,2), "coral", 
+                      ifelse(V(nds)$type %in% c(3), "darkgreen", 
+                      ifelse(V(nds)$type %in% c(4), "yellow", 
+                      ifelse(V(nds)$type %in% c(5,7), "lightblue", 
+                      ifelse(V(nds)$type %in% c(6), "lightgreen", "white"))))))
+
+V(nds)$label <- nodes$id
+
+# Visualisieren 
+
+plot(nds, 
+     vertex.color = node_colors,
+     vertex.shape = node_shapes,
+     layout = layout_with_kk(nds), 
+     vertex.size = 8,
+     vertex.label.cex = 1,         
+     vertex.label.color = "black",  
+     edge.width = 1,
+     edge.color = "black",
+     main = "NS-Rapszene")
+
+# Legende erstellen
+legend("left", legend = c("Solokünstler/Bands", "Veranstaltung", "Label", "Unternehmen(Kreis)/Organisation(Quadrat)", "Aktivist", "Ausgestiegen"), 
+       fill = c("coral", "darkgreen", "yellow", "lightblue", "lightgreen", "grey"), title = "Legende")
+
+```
+
+# 7. Teilnetzwerk: NS-Rapper mit der höchsten Reichweite
+
+```{r Gesamtnetzwerk einlesen und aufrufen}
+
+# Einlesen der Edge- und Nodelist
+edges <- read.csv("https://raw.githubusercontent.com/anonymaf112/NS-Rap/main/edges.csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/anonymaf112/NS-Rap/main/nodes.csv", header=T, as.is=T, sep = ",")
+
+# Matrix erstellen
+edgematrix <-as.matrix(edges)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt
+nsr <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+
+# Aufrufen des Netzwerks
+nsr
+
+```
+
+```{r Teilnetzwerk Erfolg erstellen}
+
+# Erstellen des Teilnetzwerks nsr_popular bestehend aus Rappern mit über 20.000 monatlichen Hörer*innen
+
+nsr_popular_nodes <- which(V(nsr)$spotify_listener >= 20000)
+nsr_popular <- induced_subgraph(nsr, nsr_popular_nodes)
+
+```
+
+### 7.1. Netzwerkmaße Teilnetzwerk Erfolg
+
+```{r Netzwerkmaße Erfolg}
+
+#ist unser Netzwerk gerichtet? 
+is_directed(nsr_popular)
+
+# Wie viele Komponenten?
+komponenten_nsr_popular <- count_components(nsr_popular)
+komponenten_nsr_popular
+
+# Netzwerk "nsr_popular" hat acht Komponenten.
+
+# Wie dicht ist unser Netzwerk? 
+dichte_nsr_popular <- edge_density(nsr_popular)
+dichte_nsr_popular
+
+# Dichte in Prozent
+nsr_popular_dichte <- nsr_popular %>% 
+  edge_density()*100
+nsr_popular_dichte
+
+#Pfaddistanz im Durchschnitt
+durchschnittsdistanz_nsr_popular <- mean_distance(nsr_popular)
+durchschnittsdistanz_nsr_popular
+
+```
+
+Das Teilnetzwerk besteht aus `r komponenten_nsr_popular`Komponenten. Die
+Dichte des Ego-Netzwerks liegt bei `r dichte_nsr_popular` oder auch `r nsr_popular_dichte` Prozent. Die
+durchschnittliche Pfaddistanz beträgt `r durchschnittsdistanz_nsr_popular`.
+
+### 7.2 Zentralitätsmaße Teilnetzwerk Erfolg
+
+```{r Degrees Teilnetzwerk Erfolg}
+
+# Degree-Werte zuweisen und auflisten
+degree_nsr_popular <- degree(nsr_popular)
+degree_nsr_popular
+
+# Knoten mit dem höchsten Degree-Wert
+maxdegree_nsr_popular <- which.max(degree_nsr_popular)
+maxdegree_nsr_popular
+
+```
+
+Der Knoten mit dem höchsten Degree-Wert ist `r maxdegree_nsr_popular`. Generell ist zu beobachten, dass die Degree-Werte des Teilnetzwerks deutlich geringer sind, was darauf schließen lässt, dass die Akteure mit hoher Reichweite weniger eng miteinander verbunden sind, als die mit einer Reichweite unter 20000 monatlichen Spotify-Hörern.
+
+### 7.3 Visualisierung Teilnetzwerk Erfolg
+
+```{r Visualisierung Teilnetzwerk Erfolg}
+
+
+# Visualisierung des Teilnetzwerks Erfolg
+plot(nsr_popular, 
+     layout = layout_with_kk(nsr_popular), 
+     vertex.size = 8,
+     vertex.label.cex = 1,         
+     vertex.label.color = "black",  
+     edge.width = 1,
+     edge.color = "black",
+     main = "Reichweitenstarke Rapper der NS-Szene",
+     sub = "Mit über 20.000 monatlichen Hörer*innen")
+
+```
+
+# 8. Diskussion
+
+## 8.1 Fazit
+
+Abschließend stellen wir fest, dass das Netzwerk des NS-Raps (noch)
+keine feste Verankerung im Mainstream-Rap aufweist. Der Kern des
+Netzwerkes bildet das Label „Neuer Deutscher Standard" der untereinander
+sehr eng agiert und offen rechtsextremes Gedankengut verbreitet. Hier
+sind Verbindungen zu rechten Parteien und Vereinigungen klar erkennbar.
+Diesen Akteure konnten wir auch außerhalb der Musikindustrie
+rechtsextreme Kontakte nachweisen, wie etwa mit Martin Sellner, einer
+Größe der Identitären Bewegung. Die Personen des „Neuen Deutschen
+Standards" sind wichtige Akteure in der Szene. Nach dem Ausscheiden von
+Chris Ares ist spielt besonders der Rapper „Prototyp" als wichtiger
+Broker eine Rolle. Direkte Verbindungen zu erfolgreichen Rappern, wie
+etwa Gzuz oder Haftbefehl lassen sich aus dem Netzwerk nicht erkennen.
+Der Erfolg der NS-Rap Szene ist zum aktuellen Zeitpunkt überschaubar und
+übersteigt die Zahl der monatlichen Spotify-Hörer von 20.000 nur in 12
+Fällen. Aus dem Ego-Netzwerk des „Neuen Deutschen Standards" sind keine
+keine Rapper darunter.
+
+## 8.2 Analyse der Arbeitshypotesen
+
+Im Folgenden widmen wir uns der Reflektion unserer Arbeitshypothesen,
+die wir zu Beginn des Forschungsberichts stellten. Arbeitshypothese 1
+„Frauen sind seltener in der rechtsextremen NS-Rap Szene vertreten als
+Männer" Diese Hypothese können wir durch unsere Ergebnisse bestätigen.
+Tatsächlich sind Frauen, unabhängig von ihrer Funktion im Netzwerk,
+deutlich seltener vertreten. Insgesamt gibt es XY Rapperinnen und XY
+Frauen in anderen Funktionen. Arbeitshypothese 2: „Durch Kooperationen
+wie Features oder der Zusammenarbeit innerhalb eines Labels besteht ein
+komplexes Beziehungsgeflecht zwischen den NS-Rappern" Diese Hypothese
+können wir ebenfalls bestätigen. Besonders deutlich zeigt dies das
+Beispiel des Ego-Netzwerkes des „Neuen Deutschen Standard"-Labels. Diese
+Rapper nutzen ein Feature besonders oft. Wir konnten zudem feststellen,
+dass einzelne Rapper sich den größeren Features eines Labels
+anschließen. Arbeitshypothese 3: „NS-Rapper sind auch außerhalb der
+Musikszene im rechten politisch Spektrum involviert" Unsere Ergebnisse
+zeigen, dass diese Arbeitshypothese zutrifft. Sehr viele der Rapper sind
+in Organisationen tätig, wie etwa rechten Parteien oder weisen
+Verbindungen zu Akteuren dieser Szene auf. Arbeitshypothese 4:
+„NS-Rapper sind in den sozialen Medien aktiv und haben dort über weak
+ties breitgefächerte Verbindungen" Besonders im Netzwerk des „Neuen
+Deutschen Standards" spielt die gegenseitige Unterstützung auf diesen
+Plattformen eine Rolle. Somit können wir diese Arbeitshypothese
+bestätigen. Arbeitshypothese 5: „NS-Rap ist bereits zumindest teilweise
+im deutschen Mainstream angekommen" Klare Erkenntnisse darüber konnten
+wir nicht gewinnen. Zumindest der Kern unseres Netzwerks rund um das
+Label „Neuer Deutscher Standard" weist wenig Erfolg auf der
+Musikplattform Spotify auf. Einzelne Rapper, die in ihren Texten offen
+rechte Aussagen treffen, konnten bereits eine hohe Reichweite mit über
+20.000 monatlichen Hörern generieren.
+
+## 8.3 Limitationen
+
+Eine Limitation unserer Datenanalyse stellt die begrenzte Anzahl der
+Akteur*innen da. Viele NS Rapper*innen verfügen über eine begrenzte
+Reichweite und es lassen sich dementsprechend wenige Informationen in
+öffentlichen, belastbaren Quellen finden. Eine genaue Definition, ob
+eine Person dem NS-Rap Genre angehört, ist in den meisten Fällen nicht
+vorhanden und wird von der Person nicht immer offen kommuniziert. Für
+die Recherche weiterer Personen, die im Hintergrund des Netzwerks tätig
+sind, wäre ein hoher Rechercheaufwand nötig und würde eine tiefergehende
+Investigation fordern. Einige erhobene Attribute können zudem schwanken.
+Dazu zählen etwa die Anzahl der Hörer\*innen auf Spotify, die sich
+stetig verändert. Die Aussage über den Erfolg eines Künstlers ist
+demnach nur begrenzt aussagekräftig, da sie andere Plattformen oder
+analoge Musikträger, die in dieser Szene bedeutsam sind, nicht
+inkludieren. Zudem können sich Informationen über die politische
+Zugehörigkeit sowie der Wohnort ändern, da zugängliche Quellen hierzu
+nicht immer aktuell sind.
+
+## 8.4 Ausblick zukünftiger Forschung
+
+Der Bereich des NS-Raps ist im Allgemeinen im Vergleich zu anderen
+Gruppierungen der rechten Szene wenig erforscht. Daher gäbe es eine
+Vielzahl an Schwerpunkte, die sich für weitere Forschung eigenen. Wir
+fänden es besonders interessant, den Fokus auf Labels und Akteur*innen
+zu richten, um zu sehen, wie diese miteinander vernetzt sind und welche
+Akteur*innen als Geldgeber in diesen Netzwerken fungieren.
+
+# 9. Anhang
+
+## 9.1 Lessons Learned
+
+Im Laufe unserer Forschungsarbeit zu diesem Thema konnten wir wertvolle
+Erkenntnisse gewinnen. Während der Datenerhebung wurde deutlich, dass es
+schwierig ist, genau zu definieren, wer zum Netzwerk gehört. Bei Themen,
+zu denen es keine eindeutigen Daten und Aufzeichnungen gibt, ist eine
+genaue Recherche und Entscheidungsfindung sehr zeitaufwändig. Für die
+sorgfältige Prüfung sensibler Daten, planten wir viel Zeit ein, die wir
+schlussendlich auch benötigten. Trotz gegenseitiger Prüfung mit dem
+Vier-Augen-Prinzip können wir nicht davon ausgehen, dass das Netzwerk in
+seiner Gesamtheit der Realität entspricht. Wir haben auch erkannt, dass
+eine effiziente Teamarbeit eine klare Zuweisung von Verantwortlichkeiten
+erfordert und dass es sinnvoll ist Aufgaben nach individuellen Stärken
+zu verteilen.Es ist von Bedeutung, sich bereits während der
+Datenrecherche Gedanken über das Ergebnis zu machen, um eine
+zielgerichtete Datenerhebung durchzuführen und eine Erhebung von
+Attributen, die letztendlich unbrauchbar sind, zu vermeiden.
+
+## 9.2 Zeiterfassung und Rollen im Team
+
+## 9.3 Literatur
+
+Alt, M. (2020). Die Nationalisierung der deutschsprachigen Popmusik.
+Neurechte Themen im Popdiskurs. In M. Ahlers, L. Grünewald-Schukalla, A.
+Jóri, & H. Schwetter (Hrsg.), Musik & Empowerment (S. 163--177).
+Springer Fachmedien. <https://doi.org/10.1007/978-3-658-29706-0_10>
+
+Baack, A. (2021, Februar 27). „Neuer Deutscher Standard" -- Rap unter
+Rechten. *MZEE.com*.
+<https://www.mzee.com/2021/02/neuer-deutscher-standard-rap-unter-rechten/>
+
+Braun, S. (2004). Rechte Netzwerke---Eine Gefahr (D. Hoersch, Hrsg.). VS
+Verlag für Sozialwissenschaften.
+<https://doi.org/10.1007/978-3-322-81009-0>
+
+Bücher, T. (2022). Rechtsrock in Baden-Württemberg: Strukturen und
+Akteure. Endstation Rechts.
+<https://www.endstation-rechts.de/news/rechtsrock-baden-wuerttemberg-strukturen-und-akteure>
+
+Dornbusch, C., & Raabe, J. (2002). RechtsRock: Bestandsaufnahme und
+Gegenstrategien. Unrast Verlag.
+<https://unrast-verlag.de/produkt/rechtsrock/>
+
+Endstation Rechts. (2024). *Neun Jahre Haft: Österreichischer
+Rechtsextremist wegen NS-Wiederbetätigung verurteilt*. Endstation
+Rechts.
+<https://www.endstation-rechts.de/news/neun-jahre-haft-oesterreichischer-rechtsextremist-wegen-ns-wiederbetaetigung-verurteilt>
+
+Fleischmann, L. (2019, November 1). Musikbusiness und Nazi-Rap: Reime
+fürs Reich. Die Tageszeitung: taz. <https://taz.de/!5635307/>
+
+Fuhse, J. (2018). Soziale Netzwerke: Konzepte und Forschungsmethoden (2., überarbeitete Auflage). UVK-Medien. <https://elibrary.utb.de/doi/book/10.36198/9783838545639>
+
+Hassan, K. (2017). Hate Speech im Rechts-Rap. Analyse eines
+rassistischen Phänomens. In K. Fereidooni & M. El (Hrsg.),
+Rassismuskritik und Widerstandsformen (S. 673--687). Springer
+Fachmedien. <https://doi.org/10.1007/978-3-658-14721-1_40> 
+
+Jünger, J. & Gärtner, C. (2023). Computational Methods für die Sozial- und Geisteswissenschaften. 
+Springer Fachmedien Wiesbaden GmbH. <https://doi.org/10.1007/978-3-658-37747-2>	
+
+
+Langebach, M., & Raabe, J. (2009). Zwischen Freizeit, Politik und Partei:
+RechtsRock. In S. Braun, A. Geisler, & M. Gerster (Hrsg.), Strategien
+der extremen Rechten: Hintergründe -- Analysen -- Antworten (S.
+163--188). VS Verlag für Sozialwissenschaften.
+<https://doi.org/10.1007/978-3-531-91708-5_10>
+
+MOBIT e.V. (Hrsg.). (2022). Hass und Kommerz---Die neonazistische
+Musikszene in Thüringen. Bundesverband Mobile Beratung.
+<https://bundesverband-mobile-beratung.de/publikationen/hass-und-kommerz-die-neonazistische-musikszene-in-thueringen-2/>
+
+Petter, J. (2020, Juli 31). Chris Ares: Wie AfD-Politiker und Neonazis
+mit rechtem Rap Geschäfte machen wollen. Der Spiegel.
+<https://www.spiegel.de/politik/deutschland/chris-ares-wie-afd-politiker-und-neonazis-mit-rechtem-rap-geschaefte-machen-wollen-a-d1e549e0-9464-4cb8-afd3-363bb88e4d44>
+
+rap.de. (2018, August 2). Die braune Seite des deutschen
+Raps---Rechtsextremismus im HipHop---Seite 2 von 3. *rap.de*.
+<https://rap.de/meinung/136083-die-braune-seite-des-deutschen-raps-rechtsextremismus-im-hiphop/>
+
+Schieferdecker, D. (2020, August 14). Rechter Rap: Die rechte Box auf
+Anschlag. Die Zeit.
+<https://www.zeit.de/kultur/musik/2020-08/rechter-rap-identitaere-rapper-hip-hop-rassistische-propaganda>
